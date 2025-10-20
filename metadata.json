@@ -1,0 +1,7 @@
+{
+  "name": "Polyglot Pal",
+  "description": "A voice-based language learning application that allows users to practice conversations in Arabic, English, or French with an AI tutor. It features real-time speech recognition, contextual AI responses, and text-to-speech for an immersive learning experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
